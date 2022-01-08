@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucamaina
+- 👀 I’m interested in project organisation
+- 🌱 I’m currently learning Python3
+- 📫 How to reach me on Linkedin https://www.linkedin.com/in/luca-maina-bb434b172
